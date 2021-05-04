@@ -19,3 +19,7 @@ cd app
 ```bash
 ../gradlew clean
 ```
+
+## Deploy to CDN
+
+You only need to host /wasmApp/index.html and /wasmApp/build
