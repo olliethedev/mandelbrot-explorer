@@ -1,4 +1,4 @@
-# Mandelbrot Fractals Exaplorer
+# Mandelbrot Fractals Explorer
 
 Project uses Kotlin/Native and WASM to render to HTML5 canvas.
 
