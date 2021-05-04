@@ -1,0 +1,4 @@
+/kotlin-native-macos-1.4.32
+.gradle
+build
+wasmApp/build
